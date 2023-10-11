@@ -1,1 +1,1 @@
-# VirtualVendingMachineApp
+# vending-machine-app
